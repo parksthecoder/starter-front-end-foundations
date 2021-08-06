@@ -39,6 +39,10 @@ h3 {
 
 /* Groups & Items  (Desktop) */
 
+img {
+  width: 100%;
+}
+
 @media all and (min-width: 800px) {
   section,
   h1 {

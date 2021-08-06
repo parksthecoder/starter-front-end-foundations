@@ -1,0 +1,11 @@
+p {
+    font-size: 14px;
+  }
+  
+  /* browser should normally display font at 14px but 24px if screen at or over 800px */
+  @media all and (min-width: 800px) {
+    p {
+      font-size: 24px;
+    }
+  }
+  
